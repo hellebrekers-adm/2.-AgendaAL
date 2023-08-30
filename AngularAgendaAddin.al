@@ -10,9 +10,9 @@ controladdin AngularAgendaAddin
     HorizontalStretch = true;
     //Load startup script
     StartupScript = 'scripts/startup.js';
-    Scripts = 'https://h2909571.stratoserver.net/HellebrekerPackages/Agenda/External/js/angwrapper.js';
+    Scripts = 'https://h2909571.stratoserver.net/HellebrekerPackages/2.-AgendaExternal/js/angwrapper.js';
     //Load stylesheet
-    StyleSheets = 'https://h2909571.stratoserver.net/HellebrekerPackages/Agenda/External/style/styles.css';
+    StyleSheets = 'https://h2909571.stratoserver.net/HellebrekerPackages/2.-AgendaExternal/style/styles.css';
 
     //Load scripts as images so they are loaded before the control is loaded
     //Event that is fired when the control is ready from js side
